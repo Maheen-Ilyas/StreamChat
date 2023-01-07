@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:stream_chat_flutter/stream_chat_flutter.dart';
 import 'package:streamchatnorm/views/channellist.dart';
-import 'package:streamchatnorm/views/channelpage.dart';
 
 Future<void> main() async {
   const apiKey = "7xk42ut8stu8";
